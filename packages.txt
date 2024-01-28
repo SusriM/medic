@@ -1,2 +1,2 @@
 portaudio
-python3-all-dev
+python-devtools
